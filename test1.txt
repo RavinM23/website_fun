@@ -1,2 +1,4 @@
 ##Push comand test from local"
 Pushing this file now from local to GitHub
+%% Learning on Fetch & Pull commands
+so now i had edited test1.txt file on Github and mean time README.md file will be edited on git local, and will perform git local push to check result 
